@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100mm" height="100mm" version="1.1" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient964" x1="82.542" x2="101.61" y1="141.28" y2="184.61" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#a6a6a6" offset="0"/>
+   <stop stop-color="#4f4f4f" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient978" x1="86.226" x2="136.67" y1="161.97" y2="251.79" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ccc" offset="0"/>
+   <stop stop-color="#4f4f4f" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(-60.978 -130.53)" stroke="#000" stroke-linejoin="round">
+  <path d="m145.92 158.96 2.2428-2.2428-8.9155-15.442h-56.702l-9.0982 15.758 2.8759 1.9264" fill="url(#linearGradient964)" stroke-width="4"/>
+  <path d="m76.319 158.96h69.597l-5.6127 63.423h-57.997z" fill="url(#linearGradient978)" stroke-width="4"/>
+  <g fill="none" stroke-linecap="round" stroke-width="3">
+   <rect x="108.21" y="171.77" width="6.8792" height="41.705"/>
+   <rect transform="rotate(-5)" x="108.99" y="182.12" width="6.8792" height="41.705"/>
+   <rect transform="matrix(-.99619 -.087156 -.087156 .99619 0 0)" x="-113.45" y="162.66" width="6.8792" height="41.705"/>
+  </g>
+ </g>
+</svg>
