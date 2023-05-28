@@ -1,7 +1,7 @@
 
 # Free Icons, Symbols and other SVGs
 All of these files are released under the CC0-1.0 license (i.e. public domain).  
-Put them to good use.
+Put them to good use, please.
 
 
 ## [add.svg](add.svg)
@@ -27,6 +27,9 @@ Put them to good use.
 
 ## [edit.svg](edit.svg)
 ![edit.svg](edit.svg)
+
+## [Gear2.svg](Gear2.svg)
+![Gear2.svg](Gear2.svg)
 
 ## [House.svg](House.svg)
 ![House.svg](House.svg)
@@ -60,3 +63,6 @@ Put them to good use.
 
 ## [Script.svg](Script.svg)
 ![Script.svg](Script.svg)
+
+## [Sunflower.svg](Sunflower.svg)
+![Sunflower.svg](Sunflower.svg)
