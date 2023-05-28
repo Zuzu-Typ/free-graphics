@@ -28,8 +28,8 @@ Put them to good use, please.
 ## [edit.svg](edit.svg)
 ![edit.svg](edit.svg)
 
-## [Gear2.svg](Gear2.svg)
-![Gear2.svg](Gear2.svg)
+## [Gear.svg](Gear.svg)
+![Gear.svg](Gear.svg)
 
 ## [House.svg](House.svg)
 ![House.svg](House.svg)
