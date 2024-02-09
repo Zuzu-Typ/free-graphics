@@ -28,6 +28,9 @@ Put them to good use, please.
 ## [edit.svg](edit.svg)
 ![edit.svg](edit.svg)
 
+## [Folder.svg](Folder.svg)
+![Folder.svg](Folder.svg)
+
 ## [Gear.svg](Gear.svg)
 ![Gear.svg](Gear.svg)
 
@@ -39,6 +42,9 @@ Put them to good use, please.
 
 ## [Location.svg](Location.svg)
 ![Location.svg](Location.svg)
+
+## [LS.svg](LS.svg)
+![LS.svg](LS.svg)
 
 ## [Magnify.svg](Magnify.svg)
 ![Magnify.svg](Magnify.svg)
